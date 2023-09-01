@@ -4,10 +4,8 @@ The attached simple source file print_random.c is to be modified by you to inclu
 See the instructions in the GitHW1a file
 
 ## Documentation
-print_random.c was given and unchanged. 
-
 ## Troubleshooting
 ### SSH Key
 I initially struggled to connect two Github accounts to Git on my computer. I learned that I can create an SSH key for each account, and clone repositories with SSH instead of HTTPS or Github CLI.
 
-(Source)[https://docs.github.com/en/authentication/connecting-to-github-with-ssh/adding-a-new-ssh-key-to-your-github-account]
+[source](https://docs.github.com/en/authentication/connecting-to-github-with-ssh/adding-a-new-ssh-key-to-your-github-account)
