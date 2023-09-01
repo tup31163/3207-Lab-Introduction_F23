@@ -2,5 +2,6 @@
 
 char randchar() {
     // There are 256 ASCII characters, 0 - 255
-    return (rand() % 256);
+    // Linux server doesn't properly display 128-255
+    return (rand() % (126 - 33) + 33) ;
 }
